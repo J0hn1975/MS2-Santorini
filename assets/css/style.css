@@ -2,7 +2,48 @@
 
 /*............................................Special headings*/
 
+/* Reset default margin and padding */
 * {
     margin: 0px;
     padding: 0px;
 }
+
+/*............................................Navbar*/
+
+/* Change default bootstrap color of Navbar */
+.bg-color {
+    background-color:#ffcc51;
+}
+
+/* Change default Boostrap color and style of Navbar*/
+.navbar-light .navbar-brand {
+    color:#ff4a4b;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+
+ /* Change default Boostrap color and style of Nav links*/ 
+  .navbar-custom .navbar-nav .nav-link {
+    color:#ff4a4b;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+/* Change default Boostrap color Navbar brand hover colour */ 
+.navbar-light .navbar-brand:hover {
+    color: #fff;
+}
+
+/* Change default Boostrap color Nav linkhover colour */ 
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover { 
+    color: #fff;
+}
+
+
+
+
+
