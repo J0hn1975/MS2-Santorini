@@ -49,6 +49,8 @@
 }
 
 /*............................................Home*/
+
+/* Make main image on home page responsive */
 .img-fluid {
     margin: 0 auto;
     height: auto;
@@ -57,6 +59,7 @@
     object-fit: cover;       
 }
 
+/* Text on hero image */
 .hero-text {
     position: absolute;
     top: 50%;
@@ -67,6 +70,7 @@
     width: 100%;
   }
 
+  /* Animtation for hero text from left side of Home Page */
   #heading-left {
     color:white;   
     -webkit-animation-name: fadeInLeft;
@@ -92,6 +96,7 @@
   }
 }
 
+/* Animtation for hero text from right side of Home Page */
 #heading-right {
     color:white;
     -webkit-animation-name: fadeInRight;
