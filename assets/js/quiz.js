@@ -116,7 +116,7 @@
         correctAnswer: "a"
       },
       {
-        question: "Where can you see the famous blue domes?",
+        question: "Where can you see the blue domes?",
         answers: {
           a: "Oia",
           b: "Fira",
@@ -125,7 +125,7 @@
         correctAnswer: "a"
       },
       {
-        question: "Where is the place to view the sunsets?",
+        question: "Best place to view the sunsets?",
         answers: {
           a: "Fira",
           b: "Oia",
