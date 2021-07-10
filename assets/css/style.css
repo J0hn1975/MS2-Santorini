@@ -142,24 +142,24 @@
   }
   
   .wrapper .input_field{
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   
   .wrapper .input_field input[type="text"],
   .wrapper textarea{
     border: 1px solid #e0e0e0;
     width: 100%;
-    padding: 10px;
+    padding: 5px;
   }
   
   .wrapper textarea{
     resize: none;
-    height: 80px;
+    height: 60px;
   }
   
   .wrapper .btn input[type="submit"]{
     border: 0px;
-    margin-top: 15px;
+    margin-top: 10px;
     padding: 10px;
     text-align: center;
     width: 100%;
