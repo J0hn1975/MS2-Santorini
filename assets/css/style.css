@@ -188,6 +188,8 @@
 
 
 /*............................................Quiz*/
+
+/* Main quiz wrapper */
   .quiz-wrapper {
 	font-size: 20px;
 	font-family: 'Work Sans', sans-serif;
@@ -197,6 +199,7 @@
   background-color: #f8f6f0;
 }
 
+/* Main quiz wrapper title */
 #quiz-title {
     font-weight: 300;
     margin: 0px;
@@ -206,19 +209,26 @@
     color: #fff;
   }
 
+  /* Style quiz questions*/
   .question{
     font-size: 30px;
     margin-bottom: 10px;
   }
+
+  /* Style quiz answers*/
   .answers {
     margin-bottom: 20px;
     text-align: left;
     display: inline-block;
   }
+
+  /* Style answers label*/
   .answers label{
     display: block;
     margin-bottom: 10px;
   }
+
+  /* Style quiz submit button */
   button{
     font-family: 'Work Sans', sans-serif;
       font-size: 22px;
@@ -230,10 +240,13 @@
       cursor: pointer;
       margin-bottom: 20px;
   }
+
+
   button:hover{
       background-color: #38a;
   }
 
+  /* Quiz question pagination */
   .slide{
     position: absolute;
     left: 0px;
@@ -243,10 +256,13 @@
     opacity: 0;
     transition: opacity 0.5s;
   }
+
   .active-slide{
     opacity: 1;
     z-index: 2;
   }
+
+  /* Main quiz container */
   .quiz-container{
     position: relative;
     height: 200px;
