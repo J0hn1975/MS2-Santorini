@@ -298,11 +298,10 @@
     color:#ff4a4b;
 }
 
-/*............................................Media Queries*/
+
 /*............................................Media Queries*/
 @media only screen and (min-width: 100px) and (max-width: 575.98px) {
   .navbar-collapse {
-    
     position: absolute;
     z-index: 1;
     top: 60px;
@@ -311,7 +310,8 @@
   }
 
 #heading-left {
-  margin-top: 50px;    
+  margin-top: 50px; 
+  font-size: 25px;   
   }
 
   #heading-right {
