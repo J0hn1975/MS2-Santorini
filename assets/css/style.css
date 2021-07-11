@@ -51,13 +51,14 @@
 /*............................................Home*/
 
 /* Make main image on home page responsive */
-.img-fluid {
-    margin: 0 auto;
-    height: auto;
-    width: 100%;
-    border: none;
-    object-fit: cover;       
-}
+.hero-image{
+  background-image: url("https://isorepublic.com/wp-content/uploads/2018/11/church-greece-1100x733.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+}    
+
 
 /* Text on hero image */
 .hero-text {
@@ -297,8 +298,26 @@
     color:#ff4a4b;
 }
 
+/*............................................Media Queries*/
+/*............................................Media Queries*/
+@media only screen and (min-width: 100px) and (max-width: 575.98px) {
+  .navbar-collapse {
+    
+    position: absolute;
+    z-index: 1;
+    top: 60px;
+    height: 100%;
+    margin-top: 10px;
+  }
 
+#heading-left {
+  margin-top: 50px;    
+  }
 
+  #heading-right {
+  display: none;
+}
+}
 
 
 
