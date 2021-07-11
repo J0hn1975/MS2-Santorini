@@ -124,8 +124,16 @@
 
 /*............................................Contact*/
 
+.bg-img {
+    background-image: url("https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2FudG9yaW5pfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 800px;
+}
+
 /* Contact form main wrapper */
-.wrapper{
+.wrapper {
     position: absolute;
     top: 50%;
     left: 50%;
