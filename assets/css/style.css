@@ -53,12 +53,12 @@
 #map {
   height: 350px;
   width: 400px;
-  padding-left: 20px;
+  
 }
 
 .map-container {
   position: absolute;
-  padding-bottom: 26%;
+  padding-bottom: 325px;
   padding-top: 415px;
   padding-left: 20px;
   height: 0;
