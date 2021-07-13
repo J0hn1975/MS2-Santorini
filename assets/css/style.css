@@ -50,21 +50,6 @@
 
 /*............................................Home*/
 
-#map {
-  height: 350px;
-  width: 400px;
-  
-}
-
-.map-container {
-  position: absolute;
-  padding-bottom: 325px;
-  padding-top: 415px;
-  padding-left: 20px;
-  height: 0;
-  overflow: hidden;
-}
-
 /* Make main image on home page responsive */
 .hero-image{
   background-image: url("https://wallpaperaccess.com/full/471490.jpg");
