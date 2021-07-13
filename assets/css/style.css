@@ -298,7 +298,7 @@
 .footer {
         background-color: #ffcc51;
         bottom: 0;
-        font-size: 24px;
+        font-size: 20px;
        
        
 }
@@ -314,7 +314,9 @@ a {
 
 #google-api {
   margin-right: 50%;
-  }
+}
+
+
 
 
 
