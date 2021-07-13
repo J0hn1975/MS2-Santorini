@@ -50,6 +50,8 @@
 
 /*............................................Home*/
 
+
+
 /* Make main image on home page responsive */
 .hero-image{
   background-image: url("https://wallpaperaccess.com/full/471490.jpg");
@@ -293,13 +295,28 @@
 /*............................................Footer*/
 
 /* Footer positioning and styling */ 
-#footer {
-        position: absolute;
+.footer {
+        background-color: #ffcc51;
         bottom: 0;
-        width: 100%;
-        font-family: 'Titillium Web', sans-serif;
         font-size: 24px;
+       
+       
 }
+
+p {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color:#ff4a4b;
+}
+
+#google-api {
+  margin-right: 50%;
+  }
+
+
 
 /* Footer text colour */
 .text {
@@ -324,7 +341,10 @@
 
   #heading-right {
   display: none;
+  
 }
+
+
 }
 
 
