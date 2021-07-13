@@ -294,6 +294,15 @@
 
 /*............................................Footer*/
 
+.social-icons {
+  width: 100%;
+ 
+}
+
+.fa-youtube-square .fa-tripadvisor {
+  font-size: 30px;
+}
+
 /* Footer positioning and styling */ 
 .footer {
         background-color: #ffcc51;
