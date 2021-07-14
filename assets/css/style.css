@@ -217,6 +217,14 @@
   background-color: #009688;
 }
 
+.custom-box {
+  max-width: 700px;
+  background-color: #fff;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 10px;
+}
+
 
 
 
