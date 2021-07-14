@@ -245,6 +245,13 @@
   font-weight: 500;
 }
 
+.quiz-btn {
+  padding: 15px 45px;  
+  background-color: #009688;
+  color: #ffffff;
+  border: none;
+}
+
 
 
 
