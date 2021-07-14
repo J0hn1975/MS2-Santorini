@@ -229,7 +229,19 @@
   font-size: 18px;
   color: #000000;
   margin-bottom: 15px;
+  line-height: 25px;
+  font-weight: 500;
 }
+
+.home-box p {
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 10px;
+  line-height: 22px;
+  font-weight: 400;
+}
+
+
 
 
 
