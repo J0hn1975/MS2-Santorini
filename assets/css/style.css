@@ -204,12 +204,22 @@
 /*............................................Quiz*/
 
 .quiz-img {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/666/547/648/santorini-greece-santorini-greece-wallpaper-preview.jpg");
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/666/547/648/santorini-greece-santorini-greece-wallpaper-preview.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     min-height: 800px;
 }
+
+.quiz-wrapper {
+  margin: 0;
+  font-size: 16px;
+  background-color: #009688;
+}
+
+
+
+
 
 
 
