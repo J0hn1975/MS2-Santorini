@@ -245,11 +245,16 @@
   font-weight: 500;
 }
 
+.home-box .quiz-btn {
+  margin-top: 20px;
+}
+
 .quiz-btn {
   padding: 15px 45px;  
   background-color: #009688;
   color: #ffffff;
   border: none;
+  border-radius: 10px;
 }
 
 
