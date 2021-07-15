@@ -158,10 +158,12 @@
     color: #332902;
   }
   
+  /* Wrapper for contact fom input fields */
   .wrapper .input_field{
     margin-bottom: 5px;
   }
   
+   /* Wrapper for contact fom input fields and text */
   .wrapper .input_field input[type="text"],
   .wrapper textarea{
     border: 1px solid #e0e0e0;
@@ -169,11 +171,13 @@
     padding: 5px;
   }
   
+   /* Wrapper for contact fom textarea */
   .wrapper textarea{
     resize: none;
     height: 60px;
   }
   
+  /* Wrapper for contact fom submit button */
   .wrapper .btn input[type="submit"]{
     border: 0px;
     margin-top: 10px;
@@ -189,6 +193,7 @@
     cursor: pointer;
   }
   
+  /* Styling for error message */
   #error_message{
     margin-bottom: 20px;
     background: #fe8b8e;
@@ -203,6 +208,7 @@
 
 /*............................................Quiz*/
 
+/* Background image for quiz page */
 .quiz-img {
     background-image: url("https://c4.wallpaperflare.com/wallpaper/666/547/648/santorini-greece-santorini-greece-wallpaper-preview.jpg");
     background-size: cover;
@@ -211,21 +217,26 @@
     min-height: 800px;
 }
 
+/* Main wrapper for quiz */
 .quiz-wrapper {
   margin: 0;
   font-size: 16px;
+  margin-top: 50px;
   
 }
 
+/* Main box to contain quiz */
 .custom-box{
 	max-width: 700px;
 	background-color: #ffffff;
 	margin:40px auto;
-	padding: 30px;
+  padding: 30px;
 	border-radius: 10px;
 	animation: fadeInRight 1s ease;
   opacity: 0.9;
+  z-index: -1;
 }
+
 @keyframes fadeInRight{
 	0%{
 		transform: translateX(40px);
@@ -236,16 +247,20 @@
 	  opacity:1;
 	}
 }
+
+
 .custom-box::before,
 .custom-box::after{
 	content: '';
 	clear: both;
 	display: table;
 }
+
 .custom-box.hide{
 	display: none;
 }
 
+/* Home box heading */
 .home-box h3{
 	font-size: 18px;
 	color:#000000;
@@ -254,6 +269,7 @@
 	line-height: 25px;
 }
 
+/* To style p tag in home box */
 .home-box p{
 	font-size: 16px;
 	margin-bottom: 10px;
@@ -261,12 +277,18 @@
 	color:#000000;
 	font-weight: 400;
 }
+
+/* To style p span tag in home box */
 .home-box p span{
 	font-weight: 500;
 }
+
+/* To style start quiz button */
 .home-box .btn{
   margin-top: 20px;
 }
+
+/* To style start quiz button */
 .btn{
 	padding: 15px 45px;
 	background-color: #009688;
@@ -279,6 +301,7 @@
 	display: inline-block;
 }
 
+/* To style quiz sections */
 .quiz-box .question-number,
 .quiz-box .question-text,
 .quiz-box .option-container,
@@ -287,6 +310,8 @@
    width: 100%;
    float: left;
 }
+
+/* To style question number */
 .quiz-box .question-number{
 	font-size: 18px;
 	color:#009688;
@@ -295,6 +320,8 @@
 	padding-bottom: 10px;
 	line-height: 25px
 }
+
+/* To style question text */
 .quiz-box .question-text{
 	font-size: 22px;
 	color:#000000;
@@ -303,11 +330,15 @@
 	padding: 20px 0;
 	margin:0;
 }
+
+/* Style for next question */
 .quiz-box .question-text img{
 	max-width: 100%;
 	display: block;
 	margin-top: 15px;
 }
+
+/* Style quiz option container */
 .quiz-box .option-container .option{
 	background-color: #cccccc;
 	padding:13px 15px;
@@ -323,6 +354,8 @@
 	position: relative;
 	overflow:hidden;
 }
+
+/* Style answers already answered */
 .quiz-box .option-container .option.already-answered{
 	pointer-events: none;
 }
@@ -334,6 +367,8 @@
 		opacity: 1;
 	}
 }
+
+/* Style corretn answers */
 .quiz-box .option-container .option.correct::before{
  content: '';
  position: absolute;
@@ -353,6 +388,8 @@
 	 transform: translateX(0%);	
 	}
 }
+
+/* Style wrong option container */
 .quiz-box .option-container .option.wrong::before{
  content: '';
  position: absolute;
@@ -364,18 +401,28 @@
  z-index: -1;
  animation: slideInLeft .5s ease forwards
 }
+
+/* Style wrong option container text */
 .quiz-box .option-container .option.wrong{
 	color:#ffffff;
 }
+
+/* Style correct option container text */
 .quiz-box .option-container .option.correct{
 	color:#ffffff;
 }
+
+/* Style main quiz button */
 .quiz-box .btn{
 	margin:15px 0;
 }
+
+/* Style answers indicators */
 .quiz-box .answers-indicator{
 	border-top: 1px solid #cccccc;
 }
+
+/* Style indicator div continer */
 .quiz-box .answers-indicator div{
 	height: 40px;
 	width: 40px;
@@ -385,6 +432,8 @@
 	margin-right: 3px;
 	margin-top: 15px;
 }
+
+/* Style correct answer indicator div continer */
 .quiz-box .answers-indicator div.correct{
 	background-color: green;
 	background-image: url("../img/correct.png");
@@ -392,6 +441,8 @@
 	background-repeat: no-repeat;
 	background-position: center;
 }
+
+/* Style wrong answer indicator div continer */
 .quiz-box .answers-indicator div.wrong{
 	background-color: red;
 	background-image: url("../img/wrong.png");
@@ -400,23 +451,31 @@
 	background-position: center;
 }
 
+/* Align text for result box */
 .result-box{
 	text-align: center;
 }
+
+/* Hide result box */
 .result-box.hide{
 	display: none;
 }
 
+/* Main heading for result box */
 .result-box h1{
 	font-size: 36px;
 	line-height: 42px;
 	color:#009688;
 }
+
+/* Table to display results */
 .result-box table{
 	width: 100%;
 	border-collapse: collapse;
 	margin:30px 0;
 }
+
+/* Style table to display results */
 .result-box table td{
 	border:1px solid #cccccc;
 	padding:8px 15px;
@@ -426,6 +485,7 @@
 	text-align: left;
 	font-size: 18px;
 }
+/* Position result box button */
 .result-box .btn{
 	margin-right: 20px;
 }
