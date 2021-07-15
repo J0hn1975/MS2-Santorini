@@ -483,19 +483,14 @@
 	margin-right: 20px;
 }
 
-
-
-
-
-
-
 /*............................................Footer*/
 
+/* Social icons container */
 .social-icons {
   width: 100%;
- 
 }
 
+/* Font awesome social icons */
 .fa-youtube-square .fa-tripadvisor {
   font-size: 30px;
 }
@@ -505,35 +500,33 @@
         background-color: #ffcc51;
         bottom: 0;
         font-size: 20px;
-       
-       
 }
 
+/* Style Santorini footer text */
 p {
   margin-bottom: 0;
 }
 
+/* Style a href tags */
 a {
   text-decoration: none;
   color:#ff4a4b;
 }
 
+/* Powered by Google API text */
 #google-api {
   margin-right: 50%;
 }
-
-
-
-
 
 /* Footer text colour */
 .text {
     color:#ff4a4b;
 }
 
-
 /*............................................Media Queries*/
 @media only screen and (min-width: 100px) and (max-width: 575.98px) {
+
+  /* Navbar for mobile devices */
   .navbar-collapse {
     position: absolute;
     z-index: 1;
@@ -542,17 +535,16 @@ a {
     margin-top: 10px;
   }
 
+/* Main welcome to Santorini heading */  
 #heading-left {
   margin-top: 50px; 
   font-size: 25px;   
-  }
-
-  #heading-right {
-  display: none;
-  
 }
 
-
+/* Stop secondary heading from display on mobile devices. */
+#heading-right {
+ display: none;
+}
 }
 
 
