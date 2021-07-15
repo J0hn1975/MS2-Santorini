@@ -36,25 +36,33 @@
       <div class="bg-img">
          <!-- Contact form wrapper -->
          <div class="wrapper">
+            <!-- Contact form heading -->
             <h2>Contact us</h2>
+            <!-- Container for error message -->
             <div id="error_message"></div>
+            <!-- JS form validation -->
             <form id="myform" onsubmit="return validate();">
+               <!-- Name input field -->
                <div class="input_field">
                   <label for="name">Name:</label>
                   <input type="text" placeholder="Name" id="name">
                </div>
+               <!-- Subject input field -->
                <div class="input_field">
                   <label for="subject">Subject:</label>
                   <input type="text" placeholder="Subject" id="subject">
                </div>
+               <!-- Email input field -->
                <div class="input_field">
                   <label for="email">Email:</label>
                   <input type="text" placeholder="Email" id="email">
                </div>
+               <!-- Message input field -->
                <div class="input_field">
                   <label for="message">Message:</label>
                   <textarea placeholder="Message" id="message"></textarea>
                </div>
+               <!-- Contact form submit button -->
                <div class="btn">
                   <input type="submit">
                </div>
