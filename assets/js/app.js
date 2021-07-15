@@ -1,11 +1,12 @@
-const questionNumber = document.querySelector(".question-number");
+
+ const questionNumber = document.querySelector(".question-number");
  const questionText = document.querySelector(".question-text");
  const optionContainer = document.querySelector(".option-container");
  const answersIndicatorContainer = document.querySelector(".answers-indicator");
  const homeBox = document.querySelector(".home-box");
  const quizBox = document.querySelector(".quiz-box");
  const resultBox = document.querySelector(".result-box");
- const questionLimit = 5; // if you want all questions "quiz.length"
+ const questionLimit = 10; // if you want all questions "quiz.length"
  let questionCounter = 0;
  let currentQuestion;
  let availableQuestions = [];

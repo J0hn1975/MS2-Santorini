@@ -44,9 +44,9 @@ const quiz = [
   },
   {
     // Question 8
-    q:'Windows, macOS, and Linux are examples of ________.?',
-    options:['web browsers','mobile devices','filmy heroines','operating systems'],
-    answer:3,
+    q:'Where can you ride the cable car?',
+    options:['Imerovigli','Kamari','Oia','Fira'],
+    answer:2,
   },
   {
     // Question 9
