@@ -56,7 +56,7 @@ const quiz = [
   },
   {
     // Question 10
-    q:'The best in Greece can be found on Santorini?',
+    q:'The best wine in Greece can be found on Santorini?',
     options:['True','False',],
     answer:1,
   }
