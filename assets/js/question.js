@@ -1,41 +1,39 @@
 // Array of Objects
 const quiz = [
   {
-  	q:'Which month comes right before june ?',
-  	options:['may','september','july','august'],
+  	q:'What is the capital of Santorini?',
+  	options:['Fira','Oia','Ancient Thera','Imerovigli'],
   	answer:0
   },
   {
-  	q:'What color is a banana?',
-  	options:['red','yellow','white','blue'],
-  	answer:1
+  	q:'Where can you see the famous blue domes?',
+  	options:['Fira','Kamari','Oia','Firostefani'],
+  	answer:2
   },
   {
-  	q:'3 + 4 = 7 ?',
+  	q:'There are more churches than houses?',
   	options:['true','false'],
   	answer:0
   },
   {
-  	q:'What time of day do we have breakfast?',
-  	options:['In the afternoon','In the evening','In the morning'],
-  	answer:2
-  },
-  {
-  	q:'What is 22 + 6?',
-  	options:['99','56','16','28'],
+  	q:'Where is the best place on the island to see the sunsets?',
+  	options:['Fira','Pyrgos','Emporoi','Oia'],
   	answer:3
   },
   {
-    q:'How many squares are there in the following figure?',
-    options:['35','30','40','50'],
-    answer:2,
-    img:'img/square.jpg'
+  	q:'Santorini is built on the remains of a volcanic caldera?',
+  	options:['True','False'],
+  	answer:2
   },
   {
-    q:'Count the triangles in picture below.',
-    options:['7','9','12','13'],
-    answer:3,
-    img:'img/triangle.jpg'
+    q:"'What part of the island is known as Santorini's balcony?'",
+    options:['Imerovigli','Oia','Kamari','Fira'],
+    answer:0,
+  },
+  {
+    q:'Santorini is named after Saint Irene?',
+    options:['True','False',],
+    answer:0,
   },
   {
     q:'Windows, macOS, and Linux are examples of ________.?',
@@ -43,13 +41,13 @@ const quiz = [
     answer:3,
   },
   {
-    q:'What does "GUI" stand for?',
-    options:['Global user index','Graphical user interface','golu use iphone'],
-    answer:1,
+    q:'Santorini is located in which sea?',
+    options:['Mediterranean','Ionian Sea','Aegean Sea'],
+    answer:2,
   },
   {
-    q:'Mark Zuckerberg is the owner of  ?',
-    options:['facebook','google','linux','linkedin'],
-    answer:0,
+    q:'The best in Greece can be found on Santorini?',
+    options:['True','False',],
+    answer:1,
   }
  ]
