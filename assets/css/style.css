@@ -50,8 +50,6 @@
 
 /*............................................Home*/
 
-
-
 /* Make main image on home page responsive */
 .hero-image{
   background-image: url("https://wallpaperaccess.com/full/471490.jpg");
@@ -60,7 +58,6 @@
   background-repeat: no-repeat;
   height: 800px;
 }    
-
 
 /* Text on hero image */
 .hero-text {
@@ -203,9 +200,6 @@
     transition: all 0.5s ease;
   }
 
-  
-
-
 /*............................................Quiz*/
 
 /* Background image for quiz page */
@@ -222,7 +216,6 @@
   margin: 0;
   font-size: 16px;
   margin-top: 50px;
-  
 }
 
 /* Main box to contain quiz */
@@ -247,7 +240,6 @@
 	  opacity:1;
 	}
 }
-
 
 .custom-box::before,
 .custom-box::after{
@@ -485,6 +477,7 @@
 	text-align: left;
 	font-size: 18px;
 }
+
 /* Position result box button */
 .result-box .btn{
 	margin-right: 20px;
