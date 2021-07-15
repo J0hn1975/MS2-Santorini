@@ -73,8 +73,7 @@
   /* Animtation for hero text from left side of Home Page */
   #heading-left {
     color:white;   
-    -webkit-animation-name: fadeInLeft;
-     animation-name: fadeInLeft;
+         animation-name: fadeInLeft;
      -webkit-animation-duration: 3s;
   animation-duration: 3s;
   -webkit-animation-fill-mode: both;
@@ -99,7 +98,7 @@
 /* Animtation for hero text from right side of Home Page */
 #heading-right {
     color:white;
-    -webkit-animation-name: fadeInRight;
+    
   animation-name: fadeInRight;
   -webkit-animation-duration: 3s;
   animation-duration: 3s;
