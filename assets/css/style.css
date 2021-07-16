@@ -507,7 +507,7 @@ p {
 /* Style a href tags */
 a {
   text-decoration: none;
-  color:#ff4a4b;
+  color:#050505;
 }
 
 /* Powered by Google API text */
@@ -517,7 +517,7 @@ a {
 
 /* Footer text colour */
 .text {
-    color:#ff4a4b;
+    color:#050505;
 }
 
 /*............................................Media Queries*/
