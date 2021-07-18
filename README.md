@@ -1,5 +1,5 @@
 # Holidays
-![Insert Hero Image]()
+![Responsive Mockup](assets/docs/Mockups/AmIResponsive.PNG)
 
 [Live Site](Insert URL when site is published)
 
