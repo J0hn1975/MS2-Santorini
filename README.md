@@ -39,3 +39,7 @@ I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is vali
 CSS validation passed with 0 error
 [CSS Validation](assets/docs/CSS-Validation/CSS_Validation.PNG)
 
+I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
+
+[index.html](assets/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)
+
