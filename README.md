@@ -24,3 +24,13 @@
 > CSS
 >
 > Javascript
+
+### Testing
+
+HTML Validation
+
+I have used the W£C Markup Validation Service to check my HTML is valid
+
+HTML validation passed with 0 errors
+[HTML Validation](assets/docs/HTML-Validation/HTML_Validation.PNG)
+
