@@ -22,6 +22,10 @@
 > CSS
 >
 > Javascript
+>
+> Google Maps Api
+>
+> Weather Widget
 
 ### Testing
 
