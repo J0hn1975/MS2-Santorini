@@ -13,8 +13,6 @@
 > - [Testing](#testing)
 > - [Credits](#credits)
 
-![Placeholder for Am I Reponsive]()
-
 ### Overview
 > A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
 
