@@ -29,8 +29,13 @@
 
 HTML Validation
 
-I have used the W£C Markup Validation Service to check my HTML is valid
+I have used the W3C Markup Validation Service to check my HTML is valid
 
 HTML validation passed with 0 errors
 [HTML Validation](assets/docs/HTML-Validation/HTML_Validation.PNG)
+
+I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
+
+CSS validation passed with 0 error
+[CSS Validation](assets/docs/CSS-Validation/CSS_Validation.PNG)
 
