@@ -1,7 +1,7 @@
 # Holidays
 ![Responsive Mockup](assets/docs/Mockups/AmIResponsive.PNG)
 
-[Live Site](Insert URL when site is published)
+[Live Site](https://j0hn1975.github.io/MS2-Santorini/)
 
 ### Table of Contents
 > - [Overview](#overview)
