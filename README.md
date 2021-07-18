@@ -43,5 +43,7 @@ I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessib
 
 [index.html](assets/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)
 [quiz.html](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
+[contact.html](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
+
 
 
