@@ -1,3 +1,4 @@
+3
 # Holidays
 ![Responsive Mockup](assets/docs/Mockups/AmIResponsive.PNG)
 
@@ -15,6 +16,9 @@
 
 ### Overview
 > A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
+
+### Wireframes
+
 
 ### Technolgies Used
 > HTML
