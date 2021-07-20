@@ -32,19 +32,20 @@
 > Contact Page
 > * [Mobile and desktop](assets/docs/Wireframes/Contact/Contact.pdf)
 ---
+## Features
 
 ## Technolgies Used
-> HTML
+> * HTML
 >
-> CSS
+> * CSS
 >
-> Javascript
+> * Javascript
 >
-> Google Maps Api
+> * Google Maps Api
 >
-> Weather Widget
+> * Weather Widget
 
-## Testing
+## Code Validation
 > ### HTML Validation
 > I have used the W3C Markup Validation Service to check my HTML is valid
 >
