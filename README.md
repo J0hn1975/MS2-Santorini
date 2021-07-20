@@ -1,5 +1,5 @@
 # Holidays
-![Responsive Mockup](assets/docs/Mockups/AmIResponsive.PNG)
+![Responsive Mockup](docs/Mockups/AmIResponsive.PNG)
 
 [You can visit the site here](https://j0hn1975.github.io/MS2-Santorini/)
 
@@ -53,21 +53,21 @@
 >
 > HTML validation passed with 0 errors
 >
-> [HTML Validation Results](assets/docs/HTML-Validation/HTML_Validation.PNG)
+> [HTML Validation Results](/docs/HTML-Validation/HTML_Validation.PNG)
 ---
 > ### CSS Validation
 > I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
 >
 > CSS validation passed with 0 error
 >
-> [CSS Validation Results](assets/docs/CSS-Validation/CSS_Validation.PNG)
+> [CSS Validation Results](/docs/CSS-Validation/CSS_Validation.PNG)
 ---
 > ### WAVE Accessibilty
 > I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
 >
-> [index.html](assets/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)
+> [index.html](/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)
 >
-> [quiz.html](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
+> [quiz.html](/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
 >
 > [contact.html](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
 
