@@ -38,20 +38,22 @@
 >
 > Weather Widget
 
-### Testing
-
-> HTML Validation
->
+## Testing
+> ### HTML Validation
 > I have used the W3C Markup Validation Service to check my HTML is valid
 >
 > HTML validation passed with 0 errors
-> [HTML Validation](assets/docs/HTML-Validation/HTML_Validation.PNG)
 >
+> [HTML Validation Results](assets/docs/HTML-Validation/HTML_Validation.PNG)
+---
+> ### CSS Validation
 > I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
 >
 > CSS validation passed with 0 error
-> [CSS Validation](assets/docs/CSS-Validation/CSS_Validation.PNG)
 >
+> [CSS Validation Results](assets/docs/CSS-Validation/CSS_Validation.PNG)
+---
+> ### WAVE Accessibilty
 > I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
 >
 > [index.html](assets/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)
