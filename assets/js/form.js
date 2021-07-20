@@ -31,5 +31,3 @@ function validate(){
   alert("Form Submitted Successfully!");
   return true;
 }
-
-
