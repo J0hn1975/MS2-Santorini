@@ -33,12 +33,16 @@
 > * [Mobile and desktop](assets/docs/Wireframes/Contact/Contact.pdf)
 ---
 ## Features
+### Existing Features
+> * Designed with HTML5, CSS3, Javascript, and Bootstrap
+> * Weather Widget used to display daily weather forecast
+> * Footer with links to Google Api, Weather Widget and two social media links
+> * Hero text scrolls in from left and right hand side of Home page
+
 
 ## Technolgies Used
 > * HTML
->
 > * CSS
->
 > * Javascript
 >
 > * Google Maps Api
