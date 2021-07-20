@@ -1,9 +1,9 @@
 # Holidays
 ![Responsive Mockup](assets/docs/Mockups/AmIResponsive.PNG)
 
-[Live Site](https://j0hn1975.github.io/MS2-Santorini/)
+[You can visit the site here](https://j0hn1975.github.io/MS2-Santorini/)
 
-### Table of Contents
+## Table of Contents
 > - [Overview](#overview)
 > - [UX](#ux)
 > - [User Stories](#user-stories)
@@ -13,10 +13,16 @@
 > - [Testing](#testing)
 > - [Credits](#credits)
 
-### Overview
+## Overview
 > A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
 
-### Wireframes
+## User Stories
+> 1. As a new visitor, I would like to see a site that is easy to and clear to navigate.
+> 2. As a new visitor, I would like to see a map of where Santorini is located.
+> 3. As a new visitor, I would like to see the current weather in Santorini.
+---
+
+## Wireframes
 > Home Page
 > * [Mobile and desktop](assets/docs/Wireframes/Home/Home.pdf)
 >
@@ -25,9 +31,9 @@
 >
 > Contact Page
 > * [Mobile and desktop](assets/docs/Wireframes/Contact/Contact.pdf)
+---
 
-
-### Technolgies Used
+## Technolgies Used
 > HTML
 >
 > CSS
