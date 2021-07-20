@@ -1,4 +1,3 @@
-
  const questionNumber = document.querySelector(".question-number");
  const questionText = document.querySelector(".question-text");
  const optionContainer = document.querySelector(".option-container");
@@ -26,7 +25,6 @@
  function getNewQuestion(){
     // set question number 
     questionNumber.innerHTML = "Question " + (questionCounter + 1) + " of " + questionLimit;
-
     // set question text
     // get random question
     const questionIndex = availableQuestions[Math.floor(Math.random() * availableQuestions.length)];
@@ -90,7 +88,6 @@
      	element.classList.add("wrong");
      	// add the indicator to wrong mark
      	updateAnswerIndicator("wrong");
-
         // if the answer is incorrect then show the correct option by adding green color the correct option
         const optionLen = optionContainer.children.length;
         for(let i=0; i<optionLen; i++){
@@ -98,7 +95,6 @@
               optionContainer.children[i].classList.add("correct");  		
         	}
         }   
-       
      }
    attempt++;
    unclickableOptions();
@@ -140,6 +136,7 @@
  	resultBox.classList.remove("hide");
     quizResult();
  }
+
  // get the quiz Result
  function quizResult(){
    resultBox.querySelector(".total-question").innerHTML = questionLimit;
@@ -176,9 +173,7 @@
  }
  
  // #### STARTING POINT ####
-
  function startQuiz(){
-    
      // hide home box 
      homeBox.classList.add("hide");
      // show quiz Box
@@ -189,9 +184,7 @@
     getNewQuestion();
     // to create indicator of answers
     answersIndicator();
-
  }
-
 
 window.onload = function (){
 	homeBox.querySelector(".total-question").innerHTML = questionLimit;
