@@ -7,7 +7,7 @@
 > - [Overview](#overview)
 > - [UX](#ux)
 > - [User Stories](#user-stories)
-> - [Wireframes](#Add-links-to-wireframes)
+> - [Wireframes](#wireframes)
 > - [Features](#features)
 > - [Technolgies Used](#technolgies-used)
 > - [Testing](#testing)
