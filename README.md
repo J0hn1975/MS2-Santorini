@@ -41,12 +41,10 @@
 
 
 ## Technolgies Used
-> * HTML
-> * CSS
+> * HTML5
+> * CSS3
 > * Javascript
->
 > * Google Maps Api
->
 > * Weather Widget
 
 ## Code Validation
