@@ -1,5 +1,5 @@
 let map;
-
+// Google maps API function
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
     center: { lat: 36.41999832 , lng: 25.43166494 },
