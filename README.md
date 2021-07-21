@@ -53,7 +53,14 @@
 >
 > HTML validation passed with 0 errors
 >
-> [HTML Validation Results](/docs/HTML-Validation/HTML_Validation.PNG)
+> Home Page
+> [Validation Results](docs/HTML-Validation/Home_Page.PNG)
+>
+> Quiz Page
+> [Validation Results](docs/HTML-Validation/Quiz_Page.PNG)
+>
+> Contact Page
+> [Validation Results](docs/HTML-Validation/Contact_Page.PNG)
 ---
 > ### CSS Validation
 > I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
