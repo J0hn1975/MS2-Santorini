@@ -37,55 +37,72 @@
             </div>
          </nav>
       </header>
-      <!-- Quiz -->
+      <!-- Quiz background image-->
       <div class="quiz-img">
+         <!-- Main quiz wrapper -->
          <div class="quiz-wrapper">
+            <!-- Main box for quiz -->
             <div class="home-box custom-box">
                <h3>Instruction:</h3>
                <p>Total number of questions: <span class="total-question"></span></p>
                <button type="button" class="btn" onclick="startQuiz()">Start Quiz</button>
             </div>
+            <!-- Contains main sections of quiz -->
             <div class="quiz-box custom-box hide">
+               <!-- Question number div -->
                <div class="question-number">
                </div>
+               <!-- Question -->
                <div class="question-text">
                </div>
+               <!-- Answer options -->
                <div class="option-container">
                </div>
+               <!-- Button to foward to next question -->
                <div class="next-question-btn">
                   <button type="button" class="btn" onclick="next()">Next</button>
                </div>
+               <!-- Right and wrong question answered indicators -->
                <div class="answers-indicator">
                </div>
             </div>
+            <!-- Main div for quiz results box -->
             <div class="result-box custom-box hide">
+               <!-- Table for quiz results -->
                <h1>Quiz Result</h1>
                <table>
                   <tr>
+                     <!-- Total number of questions -->
                      <td>Total Question</td>
                      <td><span class="total-question"></span></td>
                   </tr>
                   <tr>
+                     <!-- Number of questions attempted -->
                      <td>Attempt</td>
                      <td><span class="total-attempt"></span></td>
                   </tr>
                   <tr>
+                     <!-- Number of questions anawered correctly -->
                      <td>Correct</td>
                      <td><span class="total-correct"></span></td>
                   </tr>
                   <tr>
+                     <!-- Number of questions anawered incorrectly -->
                      <td>Wrong</td>
                      <td><span class="total-wrong"></span></td>
                   </tr>
                   <tr>
+                     <!-- Overall quiz percentage -->
                      <td>Percentage</td>
                      <td><span class="percentage"></span></td>
                   </tr>
                   <tr>
+                     <!-- Total score -->
                      <td>Your Total Score</td>
                      <td><span class="total-score"></span></td>
                   </tr>
                </table>
+               <!-- Buttons at end of quiz -->
                <button type="button" class="btn" onclick="tryAgainQuiz()">Try Again</button>
                <button type="button" class="btn" onclick="goToHome()">Go To Home</button>
             </div>
