@@ -60,4 +60,4 @@ const quiz = [
     options:['True','False',],
     answer:1,
   }
- ]
+ ];
