@@ -10,7 +10,7 @@
 > - [Wireframes](#wireframes)
 > - [Features](#features)
 > - [Technolgies Used](#technolgies-used)
-> - [Testing](#testing)
+> - [Code Validation](#code-validation)
 > - [Credits](#credits)
 
 ## Overview
