@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;400;900&display=swap');
 
 /*............................................Special headings*/
-
 /* Reset default margin and padding */
 * {
     margin: 0px;
@@ -9,6 +8,7 @@
 }
 
 /*............................................404*/
+/* Error 404 page background image */
 .image-404 {
   background-image: url("https://wallpapercave.com/wp/Dp242cK.jpg");
   background-size: cover;
@@ -17,12 +17,12 @@
   height: 800px;
 }
 
+/* Error 404 paragraph tags */
 .image-404 p {
   color: #ffffff;
   font-size: 40px;
   text-align: center;
 }
-
 
 /*............................................Navbar*/
 /* Change default bootstrap color of Navbar */
