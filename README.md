@@ -69,6 +69,24 @@
 >
 > [CSS Validation Results](/docs/CSS-Validation/CSS_Validation.PNG)
 ---
+> ### Javascript Validation
+> I have used JS Hint to validate my Javascript.
+>
+> form.js resulted in 0 errors and 0 warnings
+> [form.js](docs/Javascript-Validation/form.js.PNG)
+>
+> map.js resulted in 0 errors and 0 warnings
+> [map.js](docs/Javascript-Validation/map.js.PNG)
+>
+> question.js resulted in 0 errors and 0 warnings
+> [question.js](docs/Javascript-Validation/question.js.PNG)
+>
+> quiz.js resulted in 0 errors and 0 warnings
+> [quiz.js](docs/Javascript-Validation/quiz.js.PNG)
+>
+> SendEmail.js resulted in 0 errors and 0 warnings
+> [sendemail.js](docs/Javascript-Validation/SendEmail.js.PNG)
+---
 > ### WAVE Accessibilty
 > I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
 >
