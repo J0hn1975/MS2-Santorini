@@ -8,6 +8,16 @@
     padding: 0px;
 }
 
+/*............................................404*/
+.image-404{
+  background-image: url("https://wallpapercave.com/wp/Dp242cK.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+
 /*............................................Navbar*/
 /* Change default bootstrap color of Navbar */
 .bg-color {
