@@ -65,20 +65,6 @@ The main goal of this site is to present useful information about Santorini on a
 > * Balsamiq
 
 ## Code Validation
-> ### HTML Validation
-> I have used the W3C Markup Validation Service to check my HTML is valid
->
-> HTML validation passed with 0 errors
->
-> Home Page
-> [Validation Results](docs/HTML-Validation/Home_Page.PNG)
->
-> Quiz Page
-> [Validation Results](docs/HTML-Validation/Quiz_Page.PNG)
->
-> Contact Page
-> [Validation Results](docs/HTML-Validation/Contact_Page.PNG)
----
 > ### CSS Validation
 > I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
 >
@@ -86,32 +72,41 @@ The main goal of this site is to present useful information about Santorini on a
 >
 > [CSS Validation Results](/docs/CSS-Validation/CSS_Validation.PNG)
 ---
-> ### Javascript Validation
-> I have used JS Hint to validate my Javascript.
->
-> form.js resulted in 0 errors and 0 warnings
-> [form.js](docs/Javascript-Validation/form.js.PNG)
->
-> map.js resulted in 0 errors and 0 warnings
-> [map.js](docs/Javascript-Validation/map.js.PNG)
->
-> question.js resulted in 0 errors and 0 warnings
-> [question.js](docs/Javascript-Validation/question.js.PNG)
->
-> quiz.js resulted in 0 errors and 0 warnings
-> [quiz.js](docs/Javascript-Validation/quiz.js.PNG)
->
-> SendEmail.js resulted in 0 errors and 0 warnings
-> [sendemail.js](docs/Javascript-Validation/SendEmail.js.PNG)
+
+### HTML Validation
+I have used the W3C Markup Validation Service to check my HTML is valid
+
+|   Page  |  Result  |                      Screenshot                      |
+|:-------:|:--------:|:----------------------------------------------------:|
+|   Home  | 0 errors | [View Results](docs/HTML-Validation/Home_Page.PNG)   |
+|   Quiz  | 0 errors | [View Results](docs/HTML-Validation/Quiz_Page.PNG)   |
+| Contact | 0 errors | [View Results](docs/HTML-Validation/Contact_Page.PNG)|
 ---
-> ### WAVE Accessibilty
-> I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
->
-> [index.html](/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)
->
-> [quiz.html](/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
->
-> [contact.html](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)
+
+### Javascript Validation
+I have used JS Hint to validate my Javascript.
+
+|     Page     |        Result        |                         Screenshot                          |
+|:------------:|:--------------------:|:-----------------------------------------------------------:|
+|    form.js   | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/form.js.PNG)      |
+|    map.js    | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/map.js.PNG)       |
+|  question.js | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/question.js.PNG)  |
+|    quiz.js   | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/quiz.js.PNG)      |
+| sendemail.js | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/SendEmail.js.PNG) |
+---
+
+### WAVE Accessibilty
+I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
+
+|   Page  |            Result           | Screenshot |
+|:-------:|:---------------------------:|:----------:                                                                 
+|   Home  | 0 errors, 0 contrast errors | [View results](/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)      |
+|   Quiz  | 0 errors, 0 contrast errors | [View results](/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)       |
+| Contact | 0 errors, 0 contrast errors | [View results](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG) |
+---
+
+
+
 
 
 
