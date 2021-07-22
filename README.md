@@ -1,7 +1,7 @@
 # Holidays
 ![Responsive Mockup](docs/Mockups/AmIResponsive.PNG)
 
-[You can visit the site here](https://j0hn1975.github.io/MS2-Santorini/)
+[You can visit the live site here](https://j0hn1975.github.io/MS2-Santorini/)
 
 ## Table of Contents
 > - [Overview](#overview)
@@ -28,6 +28,7 @@ As a new or returning visitor I would like to see:
 > 8. An option to close out of the final page or play quiz again
 > 9. A contact page to get in touch with the site owner
 > 10. A site that responds and provides feedback on my interactions
+> 11. A site that I can interact with
 
 ## Site owner goals
 The main goal of this site is to present useful information about Santorini on a website that is easy to navigate
@@ -61,6 +62,7 @@ The main goal of this site is to present useful information about Santorini on a
 > * Javascript
 > * Google Maps Api
 > * Weather Widget
+> * Balsamiq
 
 ## Code Validation
 > ### HTML Validation
