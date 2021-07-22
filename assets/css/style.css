@@ -9,7 +9,6 @@
 }
 
 /*............................................Navbar*/
-
 /* Change default bootstrap color of Navbar */
 .bg-color {
     background-color:#ffcc51;
@@ -49,8 +48,6 @@
 }
 
 /*............................................Home*/
-
-
 /* Make main image on home page responsive */
 .hero-image{
   background-image: url("https://wallpaperaccess.com/full/471490.jpg");
@@ -121,7 +118,6 @@
 }
 
 /*............................................Contact*/
-
 /* Contact form background image */
 .bg-img {
     background-image: url("https://c4.wallpaperflare.com/wallpaper/488/957/306/greece-santorini-hotel-luxury-wallpaper-preview.jpg");
@@ -199,7 +195,6 @@
   }
 
 /*............................................Quiz*/
-
 /* Background image for quiz page */
 .quiz-img {
     background-image: url("https://c4.wallpaperflare.com/wallpaper/666/547/648/santorini-greece-santorini-greece-wallpaper-preview.jpg");
@@ -482,7 +477,7 @@
 }
 
 /*............................................Footer*/
-
+/* Fix empty link error on WAVE validation */
 .sr-only{
   position:absolute;
   left:-10000px;
