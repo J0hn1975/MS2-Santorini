@@ -24,13 +24,13 @@
 
 ## Wireframes
 > Home Page
-> * [Mobile and desktop](docs/Wireframes/Home/Home.pdf)
+> * [Mobile and desktop](docs/Wireframes/Home/Home.PNG)
 >
 > Quiz Page
-> * [Mobile and desktop](docs/Wireframes/Quiz/Quiz.pdf)
+> * [Mobile and desktop](docs/Wireframes/Quiz/Quiz.PNG)
 >
 > Contact Page
-> * [Mobile and desktop](docs/Wireframes/Contact/Contact.pdf)
+> * [Mobile and desktop](docs/Wireframes/Contact/Contact.PNG)
 ---
 ## Features
 ### Existing Features
