@@ -17,8 +17,10 @@
   height: 800px;
 }
 
-.image-404 .p {
+.image-404 p {
   color: #ffffff;
+  font-size: 48px;
+  text-align: center;
 }
 
 
