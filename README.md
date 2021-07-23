@@ -39,8 +39,8 @@ The main goal of this site is to present useful information about Santorini on a
 ---
 
 ## Wireframes
-> Home Page
-> * [Mobile and desktop](docs/Wireframes/Home/Home.PNG)
+> <details><summary>Home Page</summary>
+> <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Home/Home.PNG">
 >
 > Quiz Page
 > * [Mobile and desktop](docs/Wireframes/Quiz/Quiz.PNG)
