@@ -188,13 +188,20 @@ Email Validation
 Message Validation      
 > ![Message Validation](docs/Features/messagevalidation.PNG)  
 Form Submitted      
-> ![Form Submitted](docs/Features/formsubmitted.PNG)    
+> ![Form Submitted](docs/Features/formsubmitted.PNG)  
+User stories the features relates to:   
 > * 7.9 A contact page to get in touch with the site owner
 > * 7.14 Display a contact form so the user can get in touch with the site owner
 > * 7.19 A site that provides feedback and validation.  
+
+### Feature 8: 404 Error Page
+404 error page for when a user enters a incorrect URL
+> ![404](docs/Features/404.PNG)  
+User stories the features relates to:
+> * 7.19 A site that provides feedback and validation.
+> * 7.20 On the 404 page the user shouldn't use the broswer back but instead the nav bar
+> * 8.13 An error page to show if I have enterted an incorrect URL
 ---
-
-
 
 ## Technolgies Used
 > * HTML5
