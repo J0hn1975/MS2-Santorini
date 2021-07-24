@@ -118,12 +118,18 @@ For the most part of I have used the Titilium Web Google font, with a fallback o
 > 
 
 
-## Features
-### Existing Features
-> * Designed with HTML5, CSS3, Javascript, and Bootstrap
-> * Weather Widget used to display daily weather forecast
-> * Footer with links to Google Api, Weather Widget and two social media links
-> * Hero text scrolls in from left and right hand side of Home page
+# Features
+## Existing Features
+### Feature 1: The Nav Bar
+A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contact pages. As part of it bootstrap functionality the nav bar displays as a burger menu on mobile devices. 
+> ![Navbar](docs/Features/navbar.PNG)
+> ![MobileNav](docs/Features/navbar_mobile.PNG)
+> User stories feature relates to
+> * 1.1 A site that is easy and clear to navigate
+> * 1.12 As a user I would like to see a responsive site that can be used on mobile devices
+> * 1.15 Make a site that is responsive across all devices
+---
+
 
 
 ## Technolgies Used
