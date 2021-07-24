@@ -42,11 +42,16 @@ The main goal of this site is to present useful information about Santorini on a
 > <details><summary>Home Page</summary>
 > <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Home/Home.PNG">
 ></details>
-> Quiz Page
-> * [Mobile and desktop](docs/Wireframes/Quiz/Quiz.PNG)
 >
-> Contact Page
-> * [Mobile and desktop](docs/Wireframes/Contact/Contact.PNG)
+> <details><summary>Quiz Page</summary>
+> <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Quiz/Quiz.PNG">
+> </details>
+> 
+> <details><summary>Quiz Page</summary>
+> <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Contact/Contact.PNG">
+> </details>
+>
+> 
 ---
 ## Features
 ### Existing Features
