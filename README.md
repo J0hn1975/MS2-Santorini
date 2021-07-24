@@ -47,7 +47,7 @@ The main goal of this site is to present useful information about Santorini on a
 > <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Quiz/Quiz.PNG">
 > </details>
 > 
-> <details><summary>Quiz Page</summary>
+> <details><summary>Contact Page</summary>
 > <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Contact/Contact.PNG">
 > </details>
 >
