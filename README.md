@@ -24,6 +24,15 @@
 
 ## Project Goals
 ---
+The primary business goals of this site are:
+> * To promote the island of Santorini
+> * Increase the number of vistors to the island
+> * Provide inspiration for Santorini as a holiday destination
+
+The primary cusomter goals of this site are:
+> * Learn more about the island before visting
+> * Contact the site owner with any additional questions or queries
+> * Be inspired to choose Santorini as a viable holiday destination
 
 
 ## User Stories
