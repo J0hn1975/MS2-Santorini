@@ -175,6 +175,12 @@ At the end of the quiz an table displays overall progress with buttons to leave 
 > * 6.7 A final page that displays how well did on the quiz
 > * 6.17 Provide a quiz where the user can test their knowledge
 > * 6.19 A site that provides feedback and validation.
+
+### Feature 7: Contact Page
+A contact page to allow user to contact site owner.
+> ![Contact](docs/Features/contactpage.PNG)
+> * 7.9 A contact page to get in touch with the site owner
+> * 7.14 Display a contact form so the user can get in touch with the site owner
 ---
 
 
