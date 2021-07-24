@@ -564,6 +564,10 @@ a {
 
 .mobile-btn {
   padding: 0;
+  background-color: #9E9E9E;
+  color: #0000;
+  border: none;
+  border-radius: 5px;
 }
 }
 
