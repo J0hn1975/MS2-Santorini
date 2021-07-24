@@ -286,6 +286,14 @@ Actual tests:
 > 11. A 404 error page will be displayed in the event of a incorrect URL being entered. The standard nav can be used to navigate back to the site pages.
 > 12. The two social links both go to Youtube and Tripadvisor respectively, both open in separate pages.
 
+Overall results:
+> * The above physical tests passed on each device they were tested on. On the mobile version of Chrome however, the Aladin font used on the hero text falls back to cursive.
+
+### Browser Tests
+> * Firefox Developer Edition - All nav links, features and website work as expected
+> * Google Chrome - All nav links, features and website work as expected
+> * Firefox Developer Edition - All nav links, features and website work as expected
+
 
 
 
