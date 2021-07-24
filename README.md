@@ -4,12 +4,18 @@
 [You can visit the live site here](https://j0hn1975.github.io/MS2-Santorini/)
 
 ## Table of Contents
-> - [Overview](#overview)
-> - [UX](#ux)
+> 1. [Project Goals](#project-goals)
+> 2. [User Experience](#ux)
+> 3. [Features](#features)
+> 4. [Technolgies Used](#technolgies-used)
+> 5. [Testing](#testing)
+> 6. [Bugs](#bugs)
+> 7. [Deployment](#deployment)
+> 8. [Credits](#credits)
 > - [User Stories](#user-stories)
 > - [Wireframes](#wireframes)
-> - [Features](#features)
-> - [Technolgies Used](#technolgies-used)
+> - 
+> - [Testing](#testing)
 > - [Code Validation](#code-validation)
 > - [Credits](#credits)
 
@@ -69,6 +75,8 @@ The main goal of this site is to present useful information about Santorini on a
 > * Weather Widget
 > * Balsamiq
 
+## Testing
+
 ## Code Validation
 > ### CSS Validation
 > I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
@@ -81,11 +89,11 @@ The main goal of this site is to present useful information about Santorini on a
 ### HTML Validation
 I have used the W3C Markup Validation Service to check my HTML is valid
 
-|   Page  |  Result  |                      Screenshot                      |
-|:-------:|:--------:|:----------------------------------------------------:|
-|   Home  | 0 errors | [View Results](docs/HTML-Validation/Home_Page.PNG)   |
-|   Quiz  | 0 errors | [View Results](docs/HTML-Validation/Quiz_Page.PNG)   |
-| Contact | 0 errors | [View Results](docs/HTML-Validation/Contact_Page.PNG)|
+|   Page       |  Result              |                      Screenshot                      |
+|:------------:|:--------------------:|:----------------------------------------------------:|
+|   Home       | 0 errors             | [View Results](docs/HTML-Validation/Home_Page.PNG)   |
+|   Quiz       | 0 errors             | [View Results](docs/HTML-Validation/Quiz_Page.PNG)   |
+|  Contact     | 0 errors             | [View Results](docs/HTML-Validation/Contact_Page.PNG)|
 ---
 
 ### Javascript Validation
