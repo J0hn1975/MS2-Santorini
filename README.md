@@ -283,6 +283,8 @@ Actual tests:
 > 8. The quiz page on mobile displays clearly. The correct and incorrect answers are easy to see.
 > 9. The desription of the island does not display on mobiles, as it makes the Home page too cluttered.
 > 10. Each nav link and logo brand text color change to white when clicked on.
+> 11. A 404 error page will be displayed in the event of a incorrect URL being entered. The standard nav can be used to navigate back to the site pages.
+> 12. The two social links both go to Youtube and Tripadvisor respectively, both open in separate pages.
 
 
 
