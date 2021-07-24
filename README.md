@@ -16,27 +16,14 @@
           - i [Wireframes](#wireframes)   
     2.5 [Surface](#surface)  
           - i [Colours](#colours)  
-          - ii [Typography](#typography)
->
->
->
-> 2. [User Experience](#ux)  
->    2.1 [Target Audience]()  
->    2.2    
->    2.3 []()  
->    2.4 [Design](#design)  
->    2.5   
+          - ii [Typography](#typography)  
 > 3. [Features](#features)
 > 4. [Technolgies Used](#technolgies-used)
-> 5. [Testing](#testing)
+> 5. [Testing](#testing)  
+>   5.1 [Code Validation](#code-validation)
 > 6. [Bugs](#bugs)
 > 7. [Deployment](#deployment)
 > 8. [Credits](#credits)
-> - 
-> - 
-> - [Testing](#testing)
-> - [Code Validation](#code-validation)
-> - [Credits](#credits)
 
 ## Overview
 > A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
