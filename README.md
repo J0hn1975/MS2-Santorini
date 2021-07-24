@@ -147,6 +147,12 @@ Google maps API to that shows the exact location of Sanitorini.
 > User stories feature relates to:
 > * 3.2 A map of where Santorini is located
 > * 3.18 Display a map of Santorini
+
+### Feature 4: Footer
+Footer that displays the site name and two social links; one to youtube and one to Tripadvisor
+> ![Footer](docs/Features/footer.PNG)  
+> User stories feature relates to:
+> * 4.4 External social media links to find out more about the island
 ---
 
 
