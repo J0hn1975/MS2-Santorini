@@ -74,6 +74,7 @@ The main goal of this site is to present useful information about Santorini on a
 > 15. Make a site that is responsive across all devices.
 > 16. A site that provides feedback and validation.
 > 17. On the 404 page the user shouldn't use the broswer back but instead the nav bar.
+> 18. Display a map of Santorini
 ---
 
 ## Structure
@@ -132,7 +133,6 @@ A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contac
 ### Feature 2: Weather Widget API
 Weather Widget display the current weather for Santorini on the Home Page. When the widget is clicked it takes you to the Forcast7.com website for a more detailed forecast.
 > ![Weather Widget](docs/Features/weatherwidget.PNG)
->
 > 24hr Forecast  
 > ![Weather Widget 24hr](docs/Features/weather24.PNG)  
 > 7 Day Forecast  
@@ -140,6 +140,13 @@ Weather Widget display the current weather for Santorini on the Home Page. When 
 > User stories feature realtes to:  
 > * 2.3 The current weather conditions in Santorini
 > * 2.13 Display the current weather in Santorini
+
+### Feature 3: Google Maps API
+Google maps API to that shows the exact location of Sanitorini.
+> ![Google Maps API](docs/Features/map.PNG)  
+> User stories feature relates to:
+> * 3.2 A map of where Santorini is located
+> * 3.18 Display a map of Santorini
 ---
 
 
