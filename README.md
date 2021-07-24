@@ -214,12 +214,12 @@ User stories the features relates to:
 ## Testing
 
 ## Code Validation
-> ### CSS Validation
-> I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
->
-> CSS validation passed with 0 error
->
-> [CSS Validation Results](/docs/CSS-Validation/CSS_Validation.PNG)
+### CSS Validation
+I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
+
+|    Page     |               Result                |                       Screenshot                       |
+| :---------: | :---------------------------------: | :----------------------------------------------------: |
+| Entire Site | CSS Validation passed with 0 Errors | [View Results](docs/CSS-Validation/CSS_Validation.PNG) |
 ---
 
 ### HTML Validation
@@ -265,6 +265,7 @@ I have used Google Lighthouse (in Google Dev tools) to measure the performance t
 |   Home (Mobile)   | 77 Performance, 97 Accessibility, 87 Best Practices, 100 SEO |  [View Results](docs/Lighthouse/Mobile/index.html.PNG)   |
 |   Quiz (Mobile)   | 84 Performance, 97 Accessibility, 93 Best Practices, 100 SEO |   [View Results](docs/Lighthouse/Mobile/quiz.html.PNG)   |
 | Contact (Mobile)  | 88 Performance, 97 Accessibility, 93 Best Practices, 100 SEO | [View Results](docs/Lighthouse/Mobile/contact.html.PNG)  |
+--- 
 
 
 
