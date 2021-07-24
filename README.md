@@ -212,7 +212,6 @@ User stories the features relates to:
 > * Balsamiq
 
 ## Testing
-
 ## Code Validation
 ### CSS Validation
 I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
@@ -267,7 +266,23 @@ I have used Google Lighthouse (in Google Dev tools) to measure the performance t
 | Contact (Mobile)  | 88 Performance, 97 Accessibility, 93 Best Practices, 100 SEO | [View Results](docs/Lighthouse/Mobile/contact.html.PNG)  |
 --- 
 
+### Device Tests
+The site has been tested on the following physical devices
+> - Huawei P30 Pro
+> - HP Envy 17 Laptop
+> - Samsung Galaxy A31
 
+Actual tests:
+> 1. Home, Quiz, Contact nav links all go to the correct pages. Clicking the Santorini brand logo navigates back to the Home page from each page.
+> 2. The nav collaspses to a burger menu, which pushes the content down when clicked on. All nav links work as expected here too.
+> 3. The weather widget on the home page is responsive and when clicked on goes to the Forecast7.com website as expected.
+> 4. The map of Santorini has a location pin showing its location on the island.
+> 5. The text and images are clearly displayed.
+> 6. Contact page does not allow user to move forward until all fields are completed. Error messages display if a field has not been filled out.
+> 7. All pages are responsive.
+> 8. The quiz page on mobile displays clearly. The correct and incorrect answers are easy to see.
+> 9. The desription of the island does not display on mobiles, as it makes the Home page too cluttered.
+> 10. Each nav link and logo brand text color change to white when clicked on.
 
 
 
