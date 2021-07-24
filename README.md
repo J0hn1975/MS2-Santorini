@@ -177,10 +177,21 @@ At the end of the quiz an table displays overall progress with buttons to leave 
 > * 6.19 A site that provides feedback and validation.
 
 ### Feature 7: Contact Page
-A contact page to allow user to contact site owner.
+A contact page to allow user to contact site owner. Form also displays validation, and message when form is submitted.
 > ![Contact](docs/Features/contactpage.PNG)
+Name Validation  
+> ![Name Validation](docs/Features/namevalidation.PNG)   
+Subject Validation       
+> ![Subject Validation](docs/Features/subjectvalidation.PNG)  
+Email Validation   
+> ![Email Validation](docs/Features/emailvalidation.PNG)  
+Message Validation      
+> ![Message Validation](docs/Features/messagevalidation.PNG)  
+Form Submitted      
+> ![Form Submitted](docs/Features/formsubmitted.PNG)    
 > * 7.9 A contact page to get in touch with the site owner
 > * 7.14 Display a contact form so the user can get in touch with the site owner
+> * 7.19 A site that provides feedback and validation.  
 ---
 
 
