@@ -123,11 +123,23 @@ For the most part of I have used the Titilium Web Google font, with a fallback o
 ### Feature 1: The Nav Bar
 A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contact pages. As part of it bootstrap functionality the nav bar displays as a burger menu on mobile devices. 
 > ![Navbar](docs/Features/navbar.PNG)
-> ![MobileNav](docs/Features/navbar_mobile.PNG)
-> User stories feature relates to
+> ![MobileNav](docs/Features/navbar_mobile.PNG)  
+> User stories feature relates to:
 > * 1.1 A site that is easy and clear to navigate
 > * 1.12 As a user I would like to see a responsive site that can be used on mobile devices
 > * 1.15 Make a site that is responsive across all devices
+
+### Feature 2: Weather Widget API
+Weather Widget display the current weather for Santorini on the Home Page. When the widget is clicked it takes you to the Forcast7.com website for a more detailed forecast.
+> ![Weather Widget](docs/Features/weatherwidget.PNG)
+>
+> 24hr Forecast  
+> ![Weather Widget 24hr](docs/Features/weather24.PNG)  
+> 7 Day Forecast  
+> ![Weather Widget 7Day](docs/Features/weather7days.PNG)  
+> User stories feature realtes to:  
+> * 2.3 The current weather conditions in Santorini
+> * 2.13 Display the current weather in Santorini
 ---
 
 
