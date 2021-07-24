@@ -67,14 +67,14 @@ As a new or returning visitor I would like to see:
 
 ## Site owner goals
 The main goal of this site is to present useful information about Santorini on a website that is easy to navigate
-> 11. Display a contact form so the user can get in touch with the site owner
-> 12. Present the end user with a clear and simple navigaion menu
-> 13. Display the current weather in Santorini
-> 14. Provide a quiz where the user can test their knowledge
-> 15. Make a site that is responsive across all devices.
-> 16. A site that provides feedback and validation.
-> 17. On the 404 page the user shouldn't use the broswer back but instead the nav bar.
-> 18. Display a map of Santorini
+> 14. Display a contact form so the user can get in touch with the site owner
+> 15. Present the end user with a clear and simple navigaion menu
+> 16. Display the current weather in Santorini
+> 17. Provide a quiz where the user can test their knowledge
+> 18. Make a site that is responsive across all devices.
+> 19. A site that provides feedback and validation.
+> 20. On the 404 page the user shouldn't use the broswer back but instead the nav bar.
+> 21. Display a map of Santorini
 ---
 
 ## Structure
@@ -128,7 +128,7 @@ A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contac
 > User stories feature relates to:
 > * 1.1 A site that is easy and clear to navigate
 > * 1.12 As a user I would like to see a responsive site that can be used on mobile devices
-> * 1.15 Make a site that is responsive across all devices
+> * 1.15 Present the end user with a clear and simple navigaion menu
 
 ### Feature 2: Weather Widget API
 Weather Widget display the current weather for Santorini on the Home Page. When the widget is clicked it takes you to the Forcast7.com website for a more detailed forecast.
@@ -153,6 +153,28 @@ Footer that displays the site name and two social links; one to youtube and one 
 > ![Footer](docs/Features/footer.PNG)  
 > User stories feature relates to:
 > * 4.4 External social media links to find out more about the island
+
+### Feature 5: Home Page
+Home page that displays a welcome message and short description of the island. A nav bar, footer, google map and weather forecast are displayed to
+> ![Home Page](docs/Features/homepage.PNG)  
+> USer stories this feature relates to:
+> * 5.1 A site that is easy and clear to navigate
+> * 5.3 The current weather conditions in Santorini
+
+### Feature 6: Quiz Page
+A quiz to that the knowledge of the end user, that responds to and validates user input
+> ![Quiz Page](docs/Features/quizpage.PNG)   
+> ![Quiz Started](docs/Features/quiz.PNG)  
+The quiz displays the right and or wrong answer  
+> ![RightWrongAnswer](docs/Features/right_wrong_answer.PNG)  
+At the end of the quiz an table displays overall progress with buttons to leave table or start quiz again  
+> ![Quiz Results](docs/Features/quiz_result.PNG)  
+> User stories the features relates to:  
+> * 6.5 An informative quiz where I can test my knowledge on Santorini
+> * 6.6 Feedback on which answers I have got right
+> * 6.7 A final page that displays how well did on the quiz
+> * 6.17 Provide a quiz where the user can test their knowledge
+> * 6.19 A site that provides feedback and validation.
 ---
 
 
