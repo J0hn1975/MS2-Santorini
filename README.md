@@ -1,4 +1,4 @@
-# Holidays
+# Santorini
 ![Responsive Mockup](docs/Mockups/AmIResponsive.PNG)
 
 [You can visit the live site here](https://j0hn1975.github.io/MS2-Santorini/)
@@ -21,6 +21,10 @@
 
 ## Overview
 > A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
+
+## Project Goals
+---
+
 
 ## User Stories
 As a new or returning visitor I would like to see:
