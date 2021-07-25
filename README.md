@@ -364,6 +364,14 @@ Overall results:
 
 [User story screen shot](docs/Features/contactpage.PNG) 
 
+> 10. A site that responds and provides feedback on my interactions
+
+|                       Feature                       |             Test Steps              |                           Expected                           |      Actual       |
+| :-------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: | :---------------: |
+| Features that respond and provide feed back to user | Completed contact form, played quiz | User validation displyed on contact form. User progress on quiz displayed | Works as expected |
+
+[User story screen shot](docs/Features/examplesofvalidation.PNG) 
+
 
 
 
