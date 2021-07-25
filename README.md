@@ -307,7 +307,20 @@ Overall results:
 | :------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------: |
 | Display a map of where Santorini is located. | Navigate to home page where is map is clearly and prominently displayed | Map to display | Works as expected |  
 
-[User story screen shot](docs/Features/homepage.PNG)
+[User story screen shot](docs/Features/homepage.PNG)  
+
+> 3. The current weather conditions in Santorini
+
+|                           Feature                           |       Test Steps        |               Expected                |      Actual       |
+| :---------------------------------------------------------: | :---------------------: | :-----------------------------------: | :---------------: |
+|       Display current weather conditions in Santorini       | Navigate to home page.  |       Weather Widget to display       | Works as expected |
+| More detailed weahter forecast for the next 24hr and 7 days | Click on Weather Widget | Pass through to Forecast7.com website | Works as expected |
+
+[User story screen shot](docs/Features/weatherwidgettest.PNG)
+
+
+
+
 
 
 
