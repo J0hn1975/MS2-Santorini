@@ -418,7 +418,15 @@ Overall results:
 | :--------------------------------------------------: | :--------------: | :-------------------------------------------: | :---------------: |
 | Weather Widget displays current weather of Santorini | Loaded home page | Weather widget with daily forecast to display | Works as expected |
 
-[User storu screen shot](docs/Features/weatherwidget.PNG)
+[User story screen shot](docs/Features/weatherwidget.PNG)
+
+> 17. Provide a quiz where the user can test their knowledge
+
+|                   Feature                    |    Test Steps    |           Expected           |      Actual       |
+| :------------------------------------------: | :--------------: | :--------------------------: | :---------------: |
+| Quiz page that contains informative question | Loaded quiz page | Quiz to display on page load | Works as expected |
+
+[User story screen shot](docs/Features/quizpage.PNG)
 
 
 
