@@ -340,6 +340,14 @@ Overall results:
 
 [User story screen shot](docs/Features/right_wrong_answer.PNG)  
 
+> 7. A final page that displays how well did on the quiz
+
+|                  Feature                   |   Test Steps   |               Expected               |      Actual       |
+| :----------------------------------------: | :------------: | :----------------------------------: | :---------------: |
+| Display overall summay page at end of quiz | Completed quiz | Overall quiz summary to be displayed | Works as expected |
+
+[User story screen shot](docs/Features/quiz_result.PNG)
+
 
 
 
