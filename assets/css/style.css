@@ -88,7 +88,6 @@
   #heading-left {
     color:white;   
          animation-name: fadeInLeft;
-     
   animation-duration: 3s;
   animation-fill-mode: both;
   font-size: 50px;
@@ -111,9 +110,7 @@
 /* Animtation for hero text from right side of Home Page */
 #heading-right {
     color:white;
-    
   animation-name: fadeInRight;
-  
   animation-duration: 3s;
   animation-fill-mode: both;
   font-size: 25px;
