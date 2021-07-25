@@ -412,6 +412,15 @@ Overall results:
 
 [User story screen shot](docs/Features/navbar.PNG)
 
+> 16. Display the current weather in Santorini
+
+|                       Feature                        |    Test Steps    |                   Expected                    |      Actual       |
+| :--------------------------------------------------: | :--------------: | :-------------------------------------------: | :---------------: |
+| Weather Widget displays current weather of Santorini | Loaded home page | Weather widget with daily forecast to display | Works as expected |
+
+[User storu screen shot](docs/Features/weatherwidget.PNG)
+
+
 
 
 
