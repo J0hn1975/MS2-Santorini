@@ -1,3 +1,6 @@
+
+// Quiz credited to The Webshala - https://www.youtube.com/watch?v=J8QbjXdVl9c -->
+
 const questionNumber = document.querySelector(".question-number");
 const questionText = document.querySelector(".question-text");
 const optionContainer = document.querySelector(".option-container");
