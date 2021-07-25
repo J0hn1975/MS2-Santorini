@@ -6,7 +6,7 @@
 ## Table of Contents
 > 1. [Target Audience](#target-audience)
 > 2. [Project Goals](#project-goals)
-> 3. [The 5 Planes of UX](#ux)  
+> 3. [The 5 Planes of UX](#the-5-planes-of-ux)  
     3.1 [Stratergy](#stratergy)  
     3.2 [Scope](#scope)  
           - i [User Stories](#user-stories)   
