@@ -410,7 +410,7 @@ Overall results:
 | :----------------------------------------------------------: | :------------------------------------------------: | :-----------------------------: | :---------------: |
 | Present the end user with a clear and simple navigation menu | Loaded site where the nav bar is clearly layed out | Nav bar to display on each page | Works as expected |
 
-[User story screen shot](docs/Features/navbar.PNG)
+[U er story screen shot](docs/Features/navbar.PNG)
 
 > 16. Display the current weather in Santorini
 
@@ -435,6 +435,16 @@ Overall results:
 | Site created with mobile first in mind | Test across different devices (emulators used) | Site to be responsive | Works as expected |
 
 [User story screen shot](docs/Features/deviceresponsivenness-2.png)
+
+> 19. A site that provides feedback and validation.
+
+|                   Feature                   |               Test Steps                |              Expected               |      Actual       |
+| :-----------------------------------------: | :-------------------------------------: | :---------------------------------: | :---------------: |
+| Site that provides feed back and validation | Completed quiz with provides validation | Validation to provided on questions | Works as expected |
+
+[User story screen shot](docs/Features/right_wrong_answer.PNG)  
+
+
 
 
 
