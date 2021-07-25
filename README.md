@@ -484,6 +484,16 @@ I have deployed this site to GitHub pages
 > 6. The deplyment will take a few moments to finalise
 > 7. The live site URL is now displayed under Github Pages
 
+Clone site locally
+
+> 1. Log in to Github and navigate to main page of repository
+> 2. Click on **Code** above the list of files
+> 3. Copy the link under clone to https
+> 4. Open Git bash
+> 5. If required change the directory to where you would like repo cloned to
+> 6. Type git clone and then copy in repo URL
+> 7. Press enter and repo will go through short cloning process
+
 ---
 
 
