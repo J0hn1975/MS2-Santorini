@@ -18,7 +18,7 @@
           - i [Colours](#colours)  
           - ii [Typography](#typography)  
           - iii [Imagery](#imagery)
-> 4. [Features](#features)
+> 4. [Features](#features)  
 > 5. [Technolgies Used](#technolgies-used)
 > 6. [Testing](#testing)  
 >   6.1 [Code Validation](#code-validation)  
