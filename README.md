@@ -396,6 +396,16 @@ Overall results:
 
 [User story screen shot](docs/Features/404.PNG)  
 
+> 14. Display a contact form so the user can get in touch with the site owner
+
+|                           Feature                            |        Test Steps         |                Expected                 |      Actual       |
+| :----------------------------------------------------------: | :-----------------------: | :-------------------------------------: | :---------------: |
+| Contact form for the user to get in touch with site owner with questions or queries | Navigated to contact page | Contact form to display on contact page | Works as expected |  
+
+[User story screen shot](docs/Features/contact.PNG)  
+
+
+
 
 
 
