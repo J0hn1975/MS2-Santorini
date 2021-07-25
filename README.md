@@ -318,6 +318,13 @@ Overall results:
 
 [User story screen shot](docs/Features/weatherwidgettest.PNG)
 
+> 4. External social media links to find out more about the island
+
+|                Feature                 |                          Test Steps                          |               Expected                |      Actual       |
+| :------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: | :---------------: |
+| Social media links to external content | Click on Youtube and Tripadvisor social media links display in footer | Youtube Video and Tripadvisor to load | Works as expected |
+
+
 
 
 
