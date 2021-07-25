@@ -456,12 +456,13 @@ Overall results:
 
 |         Feature          |          Test Steps           |         Expected         |      Actual       |
 | :----------------------: | :---------------------------: | :----------------------: | :---------------: |
-| Display map of Santorini | Map of Santorini on home page | To find map on home page | Works as expected |
+| Display map of Santorini | Map of Santorini on home page | To find map on home page | Works as expected |  
 
-[User story screen shot](docs/Features/homepage.PNG)  
+[User story screen shot](docs/Features/map.PNG)  
+
 ---
 
-### Bugs
+# Bugs
 > **Bug** Contact form initially didn't push down when using mobile nav  
 > **Fix** Changed **poistion: absolute;** to **postion: relative**. Changed **top:50%** to **top:25%**. Changed **transform: translate(-50%,50%);** to **transform: translate(-50%,25%);**
 >
@@ -469,7 +470,21 @@ Overall results:
 > **Fix** Changed **margin: 40px auto;** to **margin: auto;** on .custom box CSS class  
 >
 > **Bug** Content map, heading-left doesn't push down on mobile nav  
-> **Fix** Changed **position : absolute;** to **position: relative;** on .hero-text CSS class
+> **Fix** Changed **position : absolute;** to **position: relative;** on .hero-text CSS class  
+
+# Deployment
+
+I have deployed this site to GitHub pages
+
+> 1. Log in to git hub and find the respositry you wish to deploy
+> 2. On the respository click on **Settings**
+> 3. From left the hand menue click on **Pages**
+> 4. Click on the **Source** option
+> 5. From the dropdown change **none** to **master branch**
+> 6. The deplyment will take a few moments to finalise
+> 7. The live site URL is now displayed under Github Pages
+
+---
 
 
 
