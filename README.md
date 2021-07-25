@@ -380,6 +380,15 @@ Overall results:
 
 [User story screen shot](docs/Features/interactivefeatures.PNG)
 
+> 12. As a user I would like to see a responsive site that can be used on mobile devices
+
+|                   Feature                   |          Test Steps          |                           Expected                           |      Actual       |
+| :-----------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :---------------: |
+| A site that is responsive on mobile devices | View site from mobile device | Site is responsive. Nav bar collapses to burger menu. Test each link. | Works as expected |
+
+[User story screen shot](docs/Features/responsiveness.PNG)  
+
+
 
 
 
