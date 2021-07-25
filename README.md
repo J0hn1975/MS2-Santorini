@@ -372,6 +372,18 @@ Overall results:
 
 [User story screen shot](docs/Features/examplesofvalidation.PNG) 
 
+> 11. A site that I can interact with
+
+|              Feature              |               Test Steps                |                       Expected                       |      Actual       |
+| :-------------------------------: | :-------------------------------------: | :--------------------------------------------------: | :---------------: |
+| Interactive features on webs site | User can complete contact form and quiz | Contact form and quiz page for user to interact with | Works as expected |  
+
+[User story screen shot](docs/Features/interactivefeatures.PNG)
+
+
+
+
+
 
 
 
