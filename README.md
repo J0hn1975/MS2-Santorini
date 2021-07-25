@@ -324,6 +324,17 @@ Overall results:
 | :------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: | :---------------: |
 | Social media links to external content | Click on Youtube and Tripadvisor social media links display in footer | Youtube Video and Tripadvisor to load | Works as expected |
 
+> 5. An informative quiz where I can test my knowledge on Santorini
+
+|                         Feature                         |                     Test Steps                      |           Expected            |      Actual       |
+| :-----------------------------------------------------: | :-------------------------------------------------: | :---------------------------: | :---------------: |
+| Find an informative quiz to test knowledge on Santorini | Navigate to quiz page, clicked on Start Quiz button | Quiz to start as question one | Works as expected |
+
+[User story screen shot](docs/Features/quiztest.PNG)  
+
+
+
+
 
 
 
