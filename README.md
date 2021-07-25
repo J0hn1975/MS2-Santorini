@@ -452,6 +452,18 @@ Overall results:
 
 [User story screen shot](docs/Features/404nav.PNG)  
 
+> 21. Display a map of Santorini
+
+|         Feature          |          Test Steps           |         Expected         |      Actual       |
+| :----------------------: | :---------------------------: | :----------------------: | :---------------: |
+| Display map of Santorini | Map of Santorini on home page | To find map on home page | Works as expected |
+
+[User story screen shot](docs/Features/homepage.PNG)  
+
+
+
+
+
 
 
 
