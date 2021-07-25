@@ -111,6 +111,7 @@
 #heading-right {
     color:white;
   animation-name: fadeInRight;
+
   animation-duration: 3s;
   animation-fill-mode: both;
   font-size: 25px;
@@ -288,6 +289,18 @@
 
 /* To style start quiz button */
 .btn{
+	padding: 15px 45px;
+	background-color: #9E9E9E;
+	color:#000000;
+	border:none;
+	border-radius: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+}
+
+.desktop-btn{
 	padding: 15px 45px;
 	background-color: #9E9E9E;
 	color:#000000;
