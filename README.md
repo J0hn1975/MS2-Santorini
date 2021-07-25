@@ -404,6 +404,13 @@ Overall results:
 
 [User story screen shot](docs/Features/contact.PNG)  
 
+> 15. Present the end user with a clear and simple navigaion menu
+
+|                           Feature                            |                     Test Steps                     |            Expected             |      Actual       |
+| :----------------------------------------------------------: | :------------------------------------------------: | :-----------------------------: | :---------------: |
+| Present the end user with a clear and simple navigation menu | Loaded site where the nav bar is clearly layed out | Nav bar to display on each page | Works as expected |
+
+[User story screen shot](docs/Features/navbar.PNG)
 
 
 
