@@ -388,6 +388,13 @@ Overall results:
 
 [User story screen shot](docs/Features/responsiveness.PNG)  
 
+> 13. An error page to show if I have enterted an incorrect URL
+
+|                         Feature                          |     Test Steps      |        Expected        |      Actual       |
+| :------------------------------------------------------: | :-----------------: | :--------------------: | :---------------: |
+| An error 404 will be displayed if incorrect URL entered. | Enter incorrect URL | Error 404 page to load | Works as expected |  
+
+[User story screen shot](docs/Features/404.PNG)  
 
 
 
