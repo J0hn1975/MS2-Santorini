@@ -297,9 +297,18 @@ Overall results:
 
 |                    Feature                    |             Test Steps             |           Expected            |       Actual       |
 | :-------------------------------------------: | :--------------------------------: | :---------------------------: | :----------------: |
-| A website that is easy and clear to navigate. | Clicked on nav links for each page | Pages to load when clicked on | Works as expecgted |
+| A website that is easy and clear to navigate. | Clicked on nav links for each page | Pages to load when clicked on | Works as expected |
 
-[User story screenshot](docs/Features/homepage.PNG)
+[User story screenshot](docs/Features/homepage.PNG)  
+
+> 2. A map of where Santorini is located
+
+|                   Feature                    |                          Test Steps                          |    Expected    |      Actual       |
+| :------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------: |
+| Display a map of where Santorini is located. | Navigate to home page where is map is clearly and prominently displayed | Map to display | Works as expected |  
+
+[User story screen shot](docs/Features/homepage.PNG)
+
 
 
 
