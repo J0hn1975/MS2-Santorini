@@ -356,6 +356,14 @@ Overall results:
 
 [User story screen shot](docs/Features/endofquizbuttons.PNG)  
 
+> 9. A contact page to get in touch with the site owner
+
+|                   Feature                   |      Test Steps      |             Expected             |      Actual       |
+| :-----------------------------------------: | :------------------: | :------------------------------: | :---------------: |
+| Contact page for user to contact site owner | Clicked on quiz page | Contact form page to be displyed | Works as expected |
+
+[User story screen shot](docs/Features/contactpage.PNG) 
+
 
 
 
