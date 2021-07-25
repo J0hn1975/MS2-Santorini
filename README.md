@@ -29,8 +29,6 @@
 > A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
 
 ## Stratergy
-
-
 ## Project Goals
 ---
 The primary business goals of this site are:
@@ -294,7 +292,14 @@ Overall results:
 > * Google Chrome - All nav links, features and website work as expected
 > * Firefox Developer Edition - All nav links, features and website work as expected
 
+### User story tests
+> 1. A site that is easy and clear to navigate
 
+|                    Feature                    |             Test Steps             |           Expected            |       Actual       |
+| :-------------------------------------------: | :--------------------------------: | :---------------------------: | :----------------: |
+| A website that is easy and clear to navigate. | Clicked on nav links for each page | Pages to load when clicked on | Works as expecgted |
+
+[User story screenshot](docs/Features/homepage.PNG)
 
 
 
