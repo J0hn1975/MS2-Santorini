@@ -4,29 +4,35 @@
 [You can visit the live site here](https://j0hn1975.github.io/MS2-Santorini/)
 
 ## Table of Contents
->
-> 1. [Project Goals](#project-goals)
-> 2. [The 5 Planes of UX](#ux)  
-    2.1 [Stratergy](#stratergy)  
-    2.2 [Scope](#scope)  
+> 1. [Target Audience](#target-audience)
+> 2. [Project Goals](#project-goals)
+> 3. [The 5 Planes of UX](#ux)  
+    3.1 [Stratergy](#stratergy)  
+    3.2 [Scope](#scope)  
           - i [User Stories](#user-stories)   
           - ii  [Site Owner Goals](#site-owner-goals)    
-    2.3 [Structure](#structure)  
-    2.4 [Skeleton](#skeleton)  
+    3.3 [Structure](#structure)  
+    3.4 [Skeleton](#skeleton)  
           - i [Wireframes](#wireframes)   
-    2.5 [Surface](#surface)  
+    3.5 [Surface](#surface)  
           - i [Colours](#colours)  
           - ii [Typography](#typography)  
-> 3. [Features](#features)
-> 4. [Technolgies Used](#technolgies-used)
-> 5. [Testing](#testing)  
->   5.1 [Code Validation](#code-validation)
-> 6. [Bugs Fixes](#bugs)
-> 7. [Deployment](#deployment)
-> 8. [Credits](#credits)
+          - iii [Imagery](#imagery)
+> 4. [Features](#features)
+> 5. [Technolgies Used](#technolgies-used)
+> 6. [Testing](#testing)  
+>   6.1 [Code Validation](#code-validation)  
+    6.2 [Device Tests](#device-tests)
+    6.3 [Browser Tests](#browser-tests)
+    6.4 [User Story Tests](#user-story-tests)
+> 7. [Bugs Fixes](#bugs)
+> 8. [Deployment](#deployment)
+> 10. [Credits](#credits)
+> 11. [Acknowledgements](#acknowledgements)
 
-## Overview
-> A website bassed on the real life Greek Island of Santorini. This site is designed to showcase the natural beauty of the isalnd and it's beautiful sunsets.
+## Target Audience
+> * New holiday makers keens to experience island life
+> * Visitors who are interested in the natural beauty the island has to offer
 
 ## Stratergy
 ## Project Goals
@@ -40,11 +46,6 @@ The primary cusomter goals of this site are:
 > * Learn more about the island before visting
 > * Contact the site owner with any additional questions or queries
 > * Be inspired to choose Santorini as a viable holiday destination
-
-## UX
-
-## Target Audience
-> * 
 
 ## Scope
 ## User Stories
@@ -112,10 +113,12 @@ Each page is design with very simple colours and images to showcase the island. 
 ## Typography
 For the most part of I have used the Titilium Web Google font, with a fallback of Sans Serif should Titilium Web not work.
 
+## Imagery
+Througout the site I have used clear images showcasing Santorini's natural beauty.
+
 ## Design
 > The site is made up of three pages, using a simple and clean design. 
 > 
-
 
 # Features
 ## Existing Features
@@ -495,6 +498,14 @@ Clone site locally
 > 7. Press enter and repo will go through short cloning process
 
 ---
+
+# Credits
+> * Quiz and JS credited to The Webshala - https://www.youtube.com/watch?v=J8QbjXdVl9c
+> * Contact form and validation JS credited to Coding Market https://www.youtube.com/watch?v=WY4rvU4ImgE
+
+# Acknowledgements
+> * Mo Shami for his external patience and guidance
+> * My partner who has not seen that much of me during MS2
 
 
 
