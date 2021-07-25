@@ -34,6 +34,7 @@
 > * New holiday makers keens to experience island life
 > * Visitors who are interested in the natural beauty the island has to offer
 
+# The 5 Planes of UX
 ## Stratergy
 ## Project Goals
 ---
