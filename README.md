@@ -444,6 +444,14 @@ Overall results:
 
 [User story screen shot](docs/Features/right_wrong_answer.PNG)  
 
+> 20. On the 404 page the user shouldn't use the broswer back but instead the nav bar.
+
+|                         Feature                         |                         Test Steps                         |           Expected            |      Actual       |
+| :-----------------------------------------------------: | :--------------------------------------------------------: | :---------------------------: | :---------------: |
+| 404 page with nav bar for user to navigate back to site | Entered incorrect URL and used nav bar to get back to site | To be directed back main site | Works as expected |
+
+[User story screen shot](docs/Features/404nav.PNG)  
+
 
 
 
