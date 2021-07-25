@@ -332,7 +332,13 @@ Overall results:
 
 [User story screen shot](docs/Features/quiztest.PNG)  
 
+> 6. Feedback on which answers I have got right
 
+|             Feature              |          Test Steps           |             Expected             |      Actual       |
+| :------------------------------: | :---------------------------: | :------------------------------: | :---------------: |
+| Show feedback on correct answers | Answered a question correctky | Correct answer to be highlighted | Works as expected |
+
+[User story screen shot](docs/Features/right_wrong_answer.PNG)  
 
 
 
