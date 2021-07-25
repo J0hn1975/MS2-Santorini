@@ -314,9 +314,7 @@
 }
 
 /* Hide end of quiz mobile */
-.mobile-btn {
-  display: none;
-}
+
 
 /* To style quiz sections */
 .quiz-box .question-number,
@@ -558,8 +556,12 @@ a {
 }
 
 /*............................................Media Queries*/
+@media only screen and (min-width: 575.99px) and (max-width: 1920px) {
+.mobile-btn {
+  display: none;
+}
+}
 @media only screen and (min-width: 100px) and (max-width: 575.98px) {
-
   /* Navbar for mobile devices */
   .navbar-collapse {
     z-index: 1;
@@ -578,6 +580,7 @@ a {
  display: none;
 }
 
+/* Style end of quiz buttons on mobile */
 .mobile-btn {
   padding: 0;
   background-color: #9E9E9E;
@@ -585,8 +588,9 @@ a {
   border: none;
   border-radius: 5px;
 }
+
+/* Hide end of quiz buttons on desktop */
 .desktop-btn {
   display: none;
 }
 }
-
