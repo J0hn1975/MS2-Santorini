@@ -348,6 +348,16 @@ Overall results:
 
 [User story screen shot](docs/Features/quiz_result.PNG)
 
+> 8. An option to close out of the final page or play quiz again
+
+|                    Feature                     |   Test Steps   |                    Expected                     |      Actual       |
+| :--------------------------------------------: | :------------: | :---------------------------------------------: | :---------------: |
+| Buttons to close out of quiz or start it again | Completed quiz | 'Try again' and 'Go to home' buttons to display | Works as expected |
+
+[User story screen shot](docs/Features/endofquizbuttons.PNG)  
+
+
+
 
 
 
