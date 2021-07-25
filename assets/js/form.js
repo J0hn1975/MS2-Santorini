@@ -1,3 +1,5 @@
+// Contact form and validation credited to Coding Market - https://www.youtube.com/watch?v=WY4rvU4ImgE -->
+
 // initialise function
 function validate(){
   var name = document.getElementById("name").value; // variable to pull name in from contact form
