@@ -300,6 +300,7 @@
 	display: inline-block;
 }
 
+/* To style end of quiz buttons desktop */
 .desktop-btn{
 	padding: 15px 45px;
 	background-color: #9E9E9E;
@@ -310,6 +311,11 @@
 	font-size: 16px;
 	cursor: pointer;
 	display: inline-block;
+}
+
+/* Hide end of quiz mobile */
+.mobile-btn {
+  display: none;
 }
 
 /* To style quiz sections */
