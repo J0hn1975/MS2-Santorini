@@ -428,6 +428,14 @@ Overall results:
 
 [User story screen shot](docs/Features/quizpage.PNG)
 
+> 18. Make a site that is responsive across all devices.
+
+|                Feature                 |                   Test Steps                   |       Expected        |      Actual       |
+| :------------------------------------: | :--------------------------------------------: | :-------------------: | :---------------: |
+| Site created with mobile first in mind | Test across different devices (emulators used) | Site to be responsive | Works as expected |
+
+[User story screen shot](docs/Features/deviceresponsivenness-2.png)
+
 
 
 
