@@ -21,7 +21,7 @@
 > 4. [Technolgies Used](#technolgies-used)
 > 5. [Testing](#testing)  
 >   5.1 [Code Validation](#code-validation)
-> 6. [Bugs](#bugs)
+> 6. [Bugs Fixes](#bugs)
 > 7. [Deployment](#deployment)
 > 8. [Credits](#credits)
 
@@ -459,6 +459,19 @@ Overall results:
 | Display map of Santorini | Map of Santorini on home page | To find map on home page | Works as expected |
 
 [User story screen shot](docs/Features/homepage.PNG)  
+---
+
+### Bugs
+> **Bug** Contact form initially didn't push down when using mobile nav  
+> **Fix** Changed **poistion: absolute;** to **postion: relative**. Changed **top:50%** to **top:25%**. Changed **transform: translate(-50%,50%);** to **transform: translate(-50%,25%);**
+>
+> **Bug** Small gap at top of page between bottom of nav bar and top of quiz.  
+> **Fix** Changed **margin: 40px auto;** to **margin: auto;** on .custom box CSS class  
+>
+> **Bug** Content map, heading-left doesn't push down on mobile nav  
+> **Fix** Changed **position : absolute;** to **position: relative;** on .hero-text CSS class
+
+
 
 
 
